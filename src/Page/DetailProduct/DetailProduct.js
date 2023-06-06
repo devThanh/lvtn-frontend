@@ -4,6 +4,7 @@ import ListGroup from "react-bootstrap/ListGroup";
 import Image from "react-bootstrap/Image";
 import Map from './map'
 import { Button } from "react-bootstrap";
+import 'mapbox-gl/dist/mapbox-gl.css';
 
 function DetailProduct() {
   return (
