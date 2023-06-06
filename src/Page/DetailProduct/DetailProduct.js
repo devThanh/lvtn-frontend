@@ -239,7 +239,7 @@ function DetailProduct() {
         </div>
         <div className="container detail-container">
           <h1 className="display-4">MAP</h1>
-          <div className="map px-5" style={{"width":"100%","height":"800px", "borderRadius":"5px"}}>
+          <div className="map px-1" style={{"width":"100%","min-height":"800px", "borderRadius":"5px"}}>
             <Map/>
           </div>
         </div>

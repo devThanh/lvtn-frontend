@@ -16,7 +16,7 @@ import mapboxgl, {Marker} from 'mapbox-gl';
     const map = useRef(null);
     const [lng, setLng] = useState(106.59904);
     const [lat, setLat] = useState(10.76124);
-    const [zoom, setZoom] = useState(14);
+    const [zoom, setZoom] = useState(11.5);
     //const marker = new mapboxgl.Marker()
     //.setLngLat([`${lng}, ${lat}`]).addTo(mapContainer)
      
